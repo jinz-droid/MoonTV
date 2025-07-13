@@ -64,7 +64,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
       href: '/douban?type=tv&tag=韩剧',
     },
     { icon: MountainSnow, label: '日剧', href: '/douban?type=tv&tag=日剧' },
-    { icon: Lunli, label: '伦理', href: '/douban?type=tv&tag=伦理' },
+    { icon: VenetianMask, label: '日漫', href: '/douban?type=tv&tag=日本动画' },
   ];
 
   const isActive = (href: string) => {
