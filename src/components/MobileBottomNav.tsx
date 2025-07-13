@@ -45,6 +45,11 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
       icon: Star,
       label: '高分',
       href: '/douban?type=movie&tag=top250&title=豆瓣 Top250',
+      },
+    {
+      icon: Lunli,
+      label: '伦理',
+      href: '/douban?type=tv&tag=综艺&title=伦理',
     },
     {
       icon: Clover,
