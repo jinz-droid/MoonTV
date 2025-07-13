@@ -108,10 +108,8 @@
       "麒麟": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "麒麟资源"
-{
-  "cache_time": 
-  "api_site": {
-    "dyttzy": {
+      },
+      "蜂巢": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库",
       "detail": "https://fczy908.com/"
