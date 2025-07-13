@@ -96,6 +96,10 @@
       "淘片": {
       "api": "https://taopianapi.com/cjapi/sda/vod",
       "name": "淘片资源"
+      },
+      "牛牛": {
+      "api": "https://niuniuzy4.com/index.php/vod",
+      "name": "牛牛资源"
     }
   }
 }
