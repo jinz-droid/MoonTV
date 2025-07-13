@@ -156,6 +156,11 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
       label: '综艺',
       href: '/douban?type=tv&tag=综艺&title=综艺',
     },
+    {
+      icon: Lunli,
+      label: '伦理',
+      href: '/douban?type=tv&tag=伦理&title=伦理',
+    },
     { icon: Swords, label: '美剧', href: '/douban?type=tv&tag=美剧' },
     {
       icon: MessageCircleHeart,
