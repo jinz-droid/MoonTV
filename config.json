@@ -88,6 +88,10 @@
       "红牛": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "红牛资源"
+      },
+      "U酷": {
+      "api": "https://ukuzy0.com/index.php/vod",
+      "name": "U酷资源"
     }
   }
 }
