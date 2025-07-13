@@ -49,7 +49,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
     {
       icon: Lunli,
       label: '伦理',
-      href: '/douban?type=tv&tag=综艺&title=伦理',
+      href: '/douban?type=tv&tag=伦理&title=伦理',
     },
     {
       icon: Clover,
