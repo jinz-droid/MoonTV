@@ -84,6 +84,10 @@
      "量子": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源"
+      },
+      "红牛": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
     }
   }
 }
