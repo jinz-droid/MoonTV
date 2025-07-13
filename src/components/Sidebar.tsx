@@ -10,6 +10,7 @@ import {
   Search,
   Star,
   Swords,
+  Lunli,
   Tv,
   VenetianMask,
 } from 'lucide-react';
