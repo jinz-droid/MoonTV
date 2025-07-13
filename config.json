@@ -104,7 +104,10 @@
       "小绵羊": {
       "api": "https://vs.okcdn100.top/vod",
       "name": "小绵羊资源"
-      
+      },
+      "麒麟": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
     }
   }
 }
